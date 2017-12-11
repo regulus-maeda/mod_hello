@@ -10,7 +10,7 @@ namespace ClassLibrary
     {
         public static void DoSomeProcess()
         {
-            Console.WriteLine("Good-bye Earth!");
+            Console.WriteLine("Good-bye World!");
         }
     }
 }
